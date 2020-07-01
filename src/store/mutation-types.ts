@@ -1,0 +1,6 @@
+export enum MutationTypes {
+  M_SET_FILTER = 'M_SET_FILTER',
+  M_SET_ITEMS = 'M_SET_ITEMS',
+  M_SELECT_ITEM = 'M_SELECT_ITEM',
+  M_UNSELECT_ITEM = 'M_UNSELECT_ITEM',
+}
